@@ -2,7 +2,7 @@
 
 Python master class files and codes
 
-- Python Basic -
+- Python Basic lessons -
 
 To check if you have python installed on a Windows PC,
 
